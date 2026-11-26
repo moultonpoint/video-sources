@@ -4,7 +4,7 @@ Citations for moultonpoint videos. Videos are grouped by who they're about, one 
 
 ## Kallaway (@kallaway.marketing)
 
-- [MP-026 · Say you own it](kallaway/MP-026-say-you-own-it/README.md) (Kallaway and Sandcastles, Nov 2026)
+- [Say you own it](kallaway/say-you-own-it/README.md) (Kallaway and Sandcastles, Nov 2026)
 
 Found a mistake? Open an issue with the source and I'll fix it and log the correction in that video's README.
 

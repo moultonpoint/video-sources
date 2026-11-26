@@ -1,4 +1,4 @@
-# MP-026 · Say you own it
+# Say you own it
 
 Sources for my video about Kallaway and Sandcastles. Every claim in the video is listed here, with the second it appears, where it comes from, and a saved copy.
 
@@ -12,7 +12,7 @@ The end of the video mentions a tool I built: my own /analyze, free and MIT lice
 
 ## Claims in the video
 
-Times are from the video (MP-026, 1:42). Rounded to the second.
+Times are from the video (1:42). Rounded to the second.
 
 | Time | What I say or show | Source | Where in the source |
 | --- | --- | --- | --- |
